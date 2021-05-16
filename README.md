@@ -1,5 +1,6 @@
 # Network-Packet-Analyzer
-Analyze common network packets. Java bit manipulation is utilized.
+Analyze common network packets.  
+Tasks: Java bit manipulation.
 
 Reads a set of packets and produces a detailed summary of those packets. This program can run as a shell command. The syntax of the command is the following:
 % java pktanalyzer datafile
