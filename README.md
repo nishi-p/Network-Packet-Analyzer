@@ -9,3 +9,5 @@ Java bit manipulation.
 * First, it displays the ethernet header fields of the captured frames. 
 * Second, if the ethernet frame contains an IP datagram, it prints the IP header. 
 * Third, it prints the packets encapsulated in the IP datagram. TCP, UDP, or ICMP packets can be encapsulated in the IP packet. 
+### Packages
+Java JRE, JDK
