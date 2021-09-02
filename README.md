@@ -1,6 +1,6 @@
 # Network-Packet-Analyzer
 ### Task:
-Analyze common network packets.
+Analyze common network packets. The packets are present in the repository as binary files.
 ### Learning:
 Java bit manipulation.
 ### Working:
